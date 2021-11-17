@@ -155,7 +155,7 @@ const addEmployee = () => {
 
 const updateEmployee = () => {
 
-    return inquirer.prompt([
+     inquirer.prompt([
         {
            type: 'list',
            name: 'updatedName',

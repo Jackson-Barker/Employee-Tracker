@@ -1,5 +1,9 @@
 # Employee Tracker
+
+Created by: Jackson Barker
+
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
 ```md
@@ -13,11 +17,16 @@ SO THAT I can organize and plan my business
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Github Profile](#github)
+- [Github](#github)
 - [Email](#email)
 - [Screenshot](#screenshot)
+- [Video](#Video)
 - [Tests](#tests)
 ## Installation
+
+1. Clone repository from github.
+2. Run npm i to install the dependencies from the package.json file.
+3. Run node index.js to run the application.
 
 ## Usage
 
@@ -43,15 +52,23 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Credits
 
+Created with help from my tutor Phil Loy.
+
 ## License
 MIT
-## Github Profile
+## Github
+ 
  <a href="https://github.com/Jackson-Barker">GitHub Profile Link</a> 
 
-## Email Address
+## Email
+
 <a href="mailto:barkerwjackson@gmail.com">Email</a>
 
 ## Screenshot
+
+## Video 
+
+ <a href="https://drive.google.com/file/d/1aEnOoBDG-9y7INj2xJxuIyu_nUu0_fqP/view">video</a> 
 
 ## Tests
 
